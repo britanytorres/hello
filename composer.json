@@ -1,0 +1,12 @@
+{
+  "name": "britanyt/328/hello",
+  "authors": [
+    {
+      "name": "Britany Torres",
+      "email": "torres.britany@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
